@@ -42,15 +42,15 @@ Pronto, você já tem o nosso repositório na sua máquina.
 ## :link: Links para a página - Exercício Restaurante Aki Sushi 🍣
 
 * Layout fixo
-  https://larissa-lm.github.io/exercicio-restaurante/Layout-fixo/Home/home.html
+  https://larissalima97.github.io/exercicio-restaurante/Layout-fixo/Home/home.html
 
 * Layout fixo centralizado
-  https://larissa-lm.github.io/exercicio-restaurante/Layout-fixo-centralizado/Home/home.html
+  https://larissalima97.github.io/exercicio-restaurante/Layout-fixo-centralizado/Home/home.html
  
 * Layout fluído
-  https://larissa-lm.github.io/exercicio-restaurante/Layout-fluido/Home/home.html
+   https://larissalima97.github.io/exercicio-restaurante/Layout-fluido/Home/home.html
 
 * Layout fluído com menu fixo 
-  https://larissa-lm.github.io/exercicio-restaurante/Layout-fluido-menu-fixo/Home/home.html
+  https://larissalima97.github.io/exercicio-restaurante/Layout-fluido-menu-fixo/Home/home.html
 
 
