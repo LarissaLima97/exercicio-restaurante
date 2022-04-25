@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+    margin:0;
+    padding: 0; /*remove config padrão do navegador*/
+    border:0;
+}
+
+body{
+    width: 940px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    width: 940px;
+    height:150px;
+}
+h1{
+    text-align: center;
+    color:white;
+    padding: 20px;
+    font-size: 60px;
+    font-family:'Poppins', sans-serif;
+ 
+}
+.logo{
+    width:100px;
+    height:100px;
+    position:absolute;
+    top:0px;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+#nav{
+    float: left;
+    width:30%;
+    height: 600px;
+}
+.background{
+    background-color: black;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+    margin-left: 9px;
+    margin-bottom:30px;
+    margin-top: 15px;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family:'Poppins', sans-serif;
+}
+
+a:hover{
+    color:red;
+}
+.content{
+    float:right;
+    width: 70%;
+    height: 600px;
+    background-color:#e94040;
+
+}
+h2{
+    text-align: center;
+    color: black;
+    margin-top: 39px;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+h3{
+    color:black;
+    text-align: center;
+    margin-top: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+
+}
+h3:hover{
+    color: white;
+}
+.gallery{
+    display:inline-block;
+}
+.gallery:hover{
+    background-color: tomato;
+}
+.gallery:hover p{
+    font-size: 30px;
+}
+.img{
+    width: 200px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 70px;
+}
+p{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+}
+

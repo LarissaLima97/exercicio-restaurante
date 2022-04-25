@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+
+}
+/*Design header e menu*/
+body{
+    width: 940px;
+}
+header{
+    width: 940px;
+    height:150px;
+   
+}
+.logo{
+    width:100px; 
+    height:100px;
+    position:absolute;
+    top:0px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+h1{
+    text-align: center;
+    color:white;
+    padding: 20px;
+    font-size: 60px;
+    font-family:'Poppins', sans-serif;
+
+}
+#nav{
+    float: left;
+    width:30%;
+    height: 600px;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family:'Poppins', sans-serif;
+}
+li{
+    margin-left: 9px;
+    margin-bottom:30px;
+    list-style: none;
+}
+a:hover{
+    color:red;
+}
+.background{
+    background-color: black;
+}
+.content{
+    float:right;
+    width: 70%;
+    height: 600px;
+    background-color:#e94040;
+
+}
+ h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin: 50px 5px 0 0;
+    font-size: 30px;
+ }
+.imgrestaurante{
+     width: 400px;
+     height: auto;
+     margin: 40px 120px;
+ }
+ p{
+     display: inline-block;
+     text-align: justify;
+     margin: 20px 40px 0 30px;
+     font-size: 20px;
+ }

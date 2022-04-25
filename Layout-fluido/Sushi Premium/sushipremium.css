@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0; /*remove config padrão do navegador*/
+    border:0;
+}
+
+/*Design header e menu*/
+body{
+    width: 100%;
+}
+header{
+    width: 100%;
+    height: 100%;
+   
+}
+.logo{
+    width:100px; 
+    height:100px;
+    position:absolute;
+    top:0px;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+h1{
+    text-align: center;
+    color:white;
+    padding: 20px;
+    font-size: 60px;
+    font-family:'Poppins', sans-serif;
+
+}
+#nav{
+    float: left;
+    width:30%;
+    height:975px;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    font-family:'Poppins', sans-serif;
+}
+li{
+    margin-top: 10%;
+    margin-left: 1%;
+    margin-bottom:7%;
+}
+a:hover{
+    color:red;
+}
+.background{
+    background-color: black;
+}
+.content{
+    float:right;
+    bottom: 5%;
+    width: 70%;
+    height: auto;
+    background-color:#e94040;
+
+}
+/* Organização do Cardápio */
+h2{
+    font-family:'Poppins', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin: 20px 0;
+    padding: 15px;
+    margin-right: 20% ;
+
+}
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 2% 1%;
+    margin: 3% 4%
+}
+.produtos li:hover{
+    background-color:tomato;
+}
+.produtos li:hover h3{
+    font-size: 25px;
+}
+#guioza{
+    margin-left: 9%;
+}
+#cogumelos{
+    margin-left: 6%;
+}
+.descricao{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.preco{
+    font-weight: bold;
+    margin-top: 5px;
+    text-align: center;
+}
+.img-produtos{
+    width: 200px;
+    height: 200px;
+}
+
+
